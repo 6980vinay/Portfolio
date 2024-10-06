@@ -52,3 +52,14 @@ body {
     background-color: rgb(231, 237, 239);
     color: black;
 }
+
+
+/* About me section */
+.card {
+    margin: 20px;
+    max-width: 600px;
+}
+
+footer{
+    color: #edf2f2;
+}
